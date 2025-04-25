@@ -8,7 +8,7 @@ Para comenzar a usar el proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
    *terminal:
-   git clone ....
+   git clone https://github.com/cariveracerdas/policyWeb.git
 
 2. accede a la carpeta del proyecto
    *terminal:
